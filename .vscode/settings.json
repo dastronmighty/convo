@@ -1,0 +1,7 @@
+{
+    "editor.wordWrapColumn": 120,
+    "javascript.format.enable": false,
+    "editor.formatOnSave": true,
+    "prettier.eslintIntegration": true,
+    "javascript.validate.enable": false
+}
